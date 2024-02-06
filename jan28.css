@@ -1,0 +1,87 @@
+/* tag selector */
+body{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+h1 {
+
+ background-color:rgb(175, 106, 106) ;
+ color: rgb(225, 222, 218);
+ margin: 25px;
+ padding: 15px;
+
+}
+
+.para-1 img {
+    width: 100px;
+    border-radius: 50%;
+
+}
+.para-3 img{
+
+    width: 100px;
+    border-radius: 50%;
+}
+img:hover {
+    border: 2px solid red;
+    box-shadow: 2px 5px 6px grey;
+}
+
+
+
+
+/* class selector */
+.para-3{
+    text-align: right;
+    width: 50%;
+    background-color: burlywood;
+    color: rgb(43, 55, 22);
+    margin: 30px;
+    padding: 20px;
+    position: absolute;
+  right: 0px;
+}
+
+.para-2{
+    
+    width: 50%;
+    background-color: rgb(72, 121, 163);
+    color: rgb(5, 5, 7);
+   
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+/* id selector */
+#special-image{
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }

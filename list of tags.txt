@@ -1,0 +1,28 @@
+List of HTML Tags
+------------------
+<html>   </html>
+<head>    </head>
+<body>    </body>
+<p>  </p>
+ 
+<b>  </b>
+<u>   </u>
+<i>  </i>
+
+<h1>  </h1>
+<h2>  </h2>
+
+<!-- some comment  -->
+
+<br>
+<hr> 
+<img src="logo.png">
+
+<a href="http://iub.ac.bd/"> ..text..   </a>
+
+
+
+
+
+
+ 

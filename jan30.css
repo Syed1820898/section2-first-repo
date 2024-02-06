@@ -1,0 +1,25 @@
+.inner {
+    border: 2px solid rgb(48, 44, 44);
+    height: 150px;
+    background-color: rgb(31, 21, 85);
+    /* width: 400px; */
+    margin: 10px;
+    padding: 10px;
+}
+
+.container{
+
+    /* display: flex; */
+    display: grid;
+    /* grid-template-columns: 1fr 2fr 1fr; */
+grid-template-columns: repeat(5, 1fr);
+
+}
+
+.box-1 {
+background-color:  rgb(4, 41, 4);
+}
+
+.box-2 {
+    background-color: rgb(31, 31, 119);
+}
